@@ -1,3 +1,8 @@
+Notes on this fork:
+The main HipSTR branch will filter out sites where >15% of reads have an indel in the flanking region.
+This branch removes that filter, which may work better for Ultima reads
+
+
 # HipSTR
 **H**aplotype **i**nference and **p**hasing for **S**hort **T**andem **R**epeats  
 ![HipSTR icon!](https://raw.githubusercontent.com/tfwillems/HipSTR/master/img/HipSTR_icon_small.png)	
