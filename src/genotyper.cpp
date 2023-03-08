@@ -340,4 +340,4 @@ int Genotyper::OUTPUT_ALLREADS        = 1;
 int Genotyper::OUTPUT_MALLREADS       = 1;
 int Genotyper::OUTPUT_FILTERS         = 0;
 int Genotyper::OUTPUT_HAPLOTYPE_DATA  = 0;
-float Genotyper::MAX_FLANK_INDEL_FRAC = 0.15;
+float Genotyper::MAX_FLANK_INDEL_FRAC = 0.99;
